@@ -157,3 +157,5 @@ To create a website like this one:
 6.  You should now have a "Build" tab next to your "Environment" and "History" (and other tabs). Under this, click "Render Project" to generate your website.
 
 7.  Now, when you click the .html files in your project's "site" folder, you should be able to view the file in your web browser.
+
+8.  To publish your website on GitHub, see [here.](https://quarto.org/docs/publishing/github-pages.html)
