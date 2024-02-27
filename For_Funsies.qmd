@@ -1,0 +1,8 @@
+---
+title: "About"
+format: html
+---
+
+## Imagine I'm making a website!
+
+Here's a little bio about me.
